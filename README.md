@@ -5,7 +5,7 @@ A simple HTML and CSS recreation of Composition No. III, with Red, Blue, Yellow,
 ## Live Preview
 
 You can view the live version of the project here:
-[Live Site](https://worleymatt93.github.io/Mondrian-Painting/)
+[Live Site](https://mattworleydev.github.io/Mondrian-Painting/)
 
 ## Features
 
